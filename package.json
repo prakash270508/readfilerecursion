@@ -1,0 +1,11 @@
+{
+  "name": "readfilerucursive",
+  "version": "1.0.0",
+  "description": "This is a package helps to read all file recursively. And provides the array of files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priya Prakash Pandey",
+  "license": "ISC"
+}
